@@ -9,10 +9,10 @@ Le compte-tours est un tachymètre1 permettant d’indiquer la vitesse de rotati
 
 #HARDWARE : 
          - arduino uno 
-         - ![image](https://user-images.githubusercontent.com/80831555/113365176-5acbc280-934d-11eb-8446-9a08dc3f1bbf.png)
+         ![image](https://user-images.githubusercontent.com/80831555/113365176-5acbc280-934d-11eb-8446-9a08dc3f1bbf.png)
 
          - dc motor 
-         - ![image](https://user-images.githubusercontent.com/80831555/113365224-7df67200-934d-11eb-90f5-732e3d1581f3.png)
+         ![image](https://user-images.githubusercontent.com/80831555/113365224-7df67200-934d-11eb-90f5-732e3d1581f3.png)
 
          - des fils de connexion
          - roue cartone ou ventilateur 
@@ -20,11 +20,11 @@ Le compte-tours est un tachymètre1 permettant d’indiquer la vitesse de rotati
          - Led 
          - circuit imprimé qui va jouer le rôle de réception du signal électrique : 
                                          + photodiode 
-                                         + ![image](https://user-images.githubusercontent.com/80831555/113365295-b26a2e00-934d-11eb-9835-bfb2d37b9a84.png)
+                                         ![image](https://user-images.githubusercontent.com/80831555/113365295-b26a2e00-934d-11eb-9835-bfb2d37b9a84.png)
 
                                          + ds résistances 
                                          + NE555
-                                         + ![image](https://user-images.githubusercontent.com/80831555/113365326-cc0b7580-934d-11eb-8eab-c7da4bff8470.png)
+                                         ![image](https://user-images.githubusercontent.com/80831555/113365326-cc0b7580-934d-11eb-8eab-c7da4bff8470.png)
 
                                          + Amplificateur inverseur 
                                          + ds condensateurs 
@@ -35,12 +35,12 @@ Le compte-tours est un tachymètre1 permettant d’indiquer la vitesse de rotati
         - LABVIEW 
         - ARDUINO IDE 
         - PROTEUSE & ISIS  pour simuler note circuit imprimer :
-        - ![image](https://user-images.githubusercontent.com/80831555/113365448-391f0b00-934e-11eb-999d-1db930c4118f.png)
+        ![image](https://user-images.githubusercontent.com/80831555/113365448-391f0b00-934e-11eb-999d-1db930c4118f.png)
 
         - PCB design 
-        - ![image](https://user-images.githubusercontent.com/80831555/113365532-6ec3f400-934e-11eb-9547-4216fd7f6cb4.png)
-        - ![image](https://user-images.githubusercontent.com/80831555/113365520-68357c80-934e-11eb-8f59-3f86ec3791ad.png)
-        - ![image](https://user-images.githubusercontent.com/80831555/113365553-784d5c00-934e-11eb-829d-c4fbdcf15b15.png)
+        ![image](https://user-images.githubusercontent.com/80831555/113365532-6ec3f400-934e-11eb-9547-4216fd7f6cb4.png)
+        ![image](https://user-images.githubusercontent.com/80831555/113365520-68357c80-934e-11eb-8f59-3f86ec3791ad.png)
+        ![image](https://user-images.githubusercontent.com/80831555/113365553-784d5c00-934e-11eb-829d-c4fbdcf15b15.png)
 
 
 
