@@ -11,7 +11,8 @@ HARDWARE :
          
 ![image](https://user-images.githubusercontent.com/80831555/113365176-5acbc280-934d-11eb-8446-9a08dc3f1bbf.png)
 
-         - dc motor : ![image](https://user-images.githubusercontent.com/80831555/113365224-7df67200-934d-11eb-90f5-732e3d1581f3.png)
+         - dc motor : 
+  ![image](https://user-images.githubusercontent.com/80831555/113365224-7df67200-934d-11eb-90f5-732e3d1581f3.png)
 
          - des fils de connexion
          - roue cartone ou ventilateur 
