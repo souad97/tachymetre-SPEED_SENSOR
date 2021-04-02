@@ -7,7 +7,7 @@ Le compte-tours est un tachymètre1 permettant d’indiquer la vitesse de rotati
 ![image](https://user-images.githubusercontent.com/80831555/113364733-26a3d200-934c-11eb-8080-a5358c87852c.png)
 
 
-#HARDWARE : 
+- HARDWARE : 
          - arduino uno 
          ![image](https://user-images.githubusercontent.com/80831555/113365176-5acbc280-934d-11eb-8446-9a08dc3f1bbf.png)
 
@@ -31,7 +31,7 @@ Le compte-tours est un tachymètre1 permettant d’indiquer la vitesse de rotati
 
 
 
-#SOFTWARE : 
+- SOFTWARE : 
         - LABVIEW 
         - ARDUINO IDE 
         - PROTEUSE & ISIS  pour simuler note circuit imprimer :
