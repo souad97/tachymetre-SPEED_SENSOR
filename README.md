@@ -37,10 +37,11 @@ SOFTWARE :
         ![image](https://user-images.githubusercontent.com/80831555/113365448-391f0b00-934e-11eb-999d-1db930c4118f.png)
 
         - PCB design 
-        ![image](https://user-images.githubusercontent.com/80831555/113365532-6ec3f400-934e-11eb-9547-4216fd7f6cb4.png)
-        ![image](https://user-images.githubusercontent.com/80831555/113365520-68357c80-934e-11eb-8f59-3f86ec3791ad.png)
-        ![image](https://user-images.githubusercontent.com/80831555/113365553-784d5c00-934e-11eb-829d-c4fbdcf15b15.png)
-
+        - 
+ 
+![image](https://user-images.githubusercontent.com/80831555/113365850-602a0c80-934f-11eb-9e7c-c625ecb45b45.png)
+![image](https://user-images.githubusercontent.com/80831555/113365860-68824780-934f-11eb-8cdc-e22373bb48f1.png)
+![image](https://user-images.githubusercontent.com/80831555/113365870-6ddf9200-934f-11eb-925e-502e8189c3ba.png)
 
 
 
