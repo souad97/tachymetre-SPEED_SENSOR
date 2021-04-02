@@ -8,11 +8,9 @@ Le compte-tours est un tachymètre1 permettant d’indiquer la vitesse de rotati
 
 
 HARDWARE : 
-         - arduino uno 
-         ![image](https://user-images.githubusercontent.com/80831555/113365176-5acbc280-934d-11eb-8446-9a08dc3f1bbf.png)
+         - arduino uno ![image](https://user-images.githubusercontent.com/80831555/113365176-5acbc280-934d-11eb-8446-9a08dc3f1bbf.png)
 
-         - dc motor 
-         ![image](https://user-images.githubusercontent.com/80831555/113365224-7df67200-934d-11eb-90f5-732e3d1581f3.png)
+         - dc motor ![image](https://user-images.githubusercontent.com/80831555/113365224-7df67200-934d-11eb-90f5-732e3d1581f3.png)
 
          - des fils de connexion
          - roue cartone ou ventilateur 
@@ -20,11 +18,11 @@ HARDWARE :
          - Led 
          - circuit imprimé qui va jouer le rôle de réception du signal électrique : 
                                          + photodiode 
-                                         ![image](https://user-images.githubusercontent.com/80831555/113365295-b26a2e00-934d-11eb-9835-bfb2d37b9a84.png)
+     ![image](https://user-images.githubusercontent.com/80831555/113365295-b26a2e00-934d-11eb-9835-bfb2d37b9a84.png)
 
                                          + ds résistances 
                                          + NE555
-                                         ![image](https://user-images.githubusercontent.com/80831555/113365326-cc0b7580-934d-11eb-8eab-c7da4bff8470.png)
+     ![image](https://user-images.githubusercontent.com/80831555/113365326-cc0b7580-934d-11eb-8eab-c7da4bff8470.png)
 
                                          + Amplificateur inverseur 
                                          + ds condensateurs 
