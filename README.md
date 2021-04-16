@@ -5,6 +5,12 @@ Le compte-tours est un tachymètre1 permettant d’indiquer la vitesse de rotati
 ![image](https://user-images.githubusercontent.com/80831555/113363668-53a2b580-9349-11eb-962f-ebb94dd35e77.png)![image](https://user-images.githubusercontent.com/80831555/113364733-26a3d200-934c-11eb-8080-a5358c87852c.png)
 
 
+
+- réalisation :
+
+![20210416_114106](https://user-images.githubusercontent.com/80831555/115054916-56b4ae80-9ed0-11eb-95b6-1ebc15951d78.jpg)
+
+
 HARDWARE : 
          - arduino uno :
          
@@ -35,7 +41,7 @@ HARDWARE :
 SOFTWARE : 
       - LABVIEW 
       - ARDUINO IDE 
-     - PROTEUSE & ISIS  pour simuler note circuit imprimer :
+     - PROTEUSE & ISIS  pour simuler notre circuit imprimé :
    ![image](https://user-images.githubusercontent.com/80831555/113365448-391f0b00-934e-11eb-999d-1db930c4118f.png)
 
         - PCB design 
@@ -46,6 +52,8 @@ SOFTWARE :
 ![image](https://user-images.githubusercontent.com/80831555/113365870-6ddf9200-934f-11eb-925e-502e8189c3ba.png)
 
 
+- l'aquisition de vitesse sur LABVIEW
+![20210416_114251](https://user-images.githubusercontent.com/80831555/115055097-8fed1e80-9ed0-11eb-92af-97e9f26c70db.jpg)
 
  
                                          
